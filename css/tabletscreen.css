@@ -23,14 +23,8 @@ aside {
 }
 
 footer {
-	display: grid;
-	grid-column: 1 / 13;
     grid-row: 4 / 6;
 	grid-template-columns: repeat(2, 1fr);
 	grid-template-rows: repeat(2, 200px);
 
-}
-
-section[class*="footer"] {
-	margin: 10px
 }
