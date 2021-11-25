@@ -8,10 +8,15 @@ body {
 /* Begin coding your solution below */
 
 .container {
-	border: 1px solid black;
+	border: 1px solid tomato;
 	display: grid;
 	grid-template-columns: repeat(12, 1fr);
-	grid-template-rows: repeat(4, 1fr);
+	grid-template-rows: repeat(4, 200px);
 	width: 88vw;
 	margin: auto;
+}
+
+header {
+	border: 1px solid #333;
+	grid-column: 1 / 13;
 }
