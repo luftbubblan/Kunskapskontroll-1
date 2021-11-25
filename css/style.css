@@ -13,7 +13,7 @@ body {
 	grid-template-rows: repeat(4, 200px);
 	width: 88vw;
 	margin: auto;
-	gap: 10px;
+	gap: 20px;
 }
 
 header {

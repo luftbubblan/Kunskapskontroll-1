@@ -28,5 +28,5 @@ aside {
 footer {
     grid-row: 4 / 6;
 	grid-template-columns: repeat(2, 1fr);
-	grid-template-rows: repeat(2, 200px);
+	grid-template-rows: repeat(2, 210px);
 }
