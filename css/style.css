@@ -36,3 +36,13 @@ section[class*="box"] {
 .box3 {
 	grid-column: 11 /13;
 }
+
+main {
+	border: 1px solid #333;
+	grid-column: 1 / 10;
+}
+
+aside {
+	border: 1px solid #333;
+	grid-column: 10 / 13;
+}
