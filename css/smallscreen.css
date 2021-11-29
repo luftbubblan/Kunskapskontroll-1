@@ -1,12 +1,12 @@
-.box1 {
+#box1 {
     grid-column: 1 /4;
 }
 
-.box2 {
+#box2 {
     grid-column: 4 /10;
 }
 
-.box3 {
+#box3 {
     grid-column: 10 /13;
 }
 
