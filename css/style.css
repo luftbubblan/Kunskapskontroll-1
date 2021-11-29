@@ -52,8 +52,6 @@ footer {
 	display: grid;
 	grid-column: 1 / 13;
 	grid-template-columns: repeat(4, 1fr);
-	grid-template-rows: 200px;
-
 }
 
 section[class*="footer"] {
